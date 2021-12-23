@@ -1,12 +1,13 @@
 {
   "name": "practice-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Thi is practice project.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["practice","sample","work"],
   "author": "Ujjawal Kumar",
   "license": "ISC"
 }
